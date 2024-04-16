@@ -1,4 +1,4 @@
-import createField from './form-fields.js';
+import createField from './form-field.js';
 import { sampleRUM } from '../../scripts/aem.js';
 
 async function createForm(formHref) {
